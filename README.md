@@ -36,7 +36,7 @@ A base de dados utilizada é um arquivo `CSV` com informações sobre os persona
 
 ### Evolução do Número de Personagens por Ano (a partir de 1939)
 
-![Evolução dos Personagens](Figure_5.png)
+![Evolução dos Personagens](Figuras/Figure_5.png)
 
 ## ▶️ Como executar
 
