@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Leitura do arquivo CSV
-avengers_df = pd.read_csv('avengers.csv', encoding='ISO-8859-1')
+avengers_df = pd.read_csv('data/avengers.csv', encoding='ISO-8859-1')
 
 # Preenchimento de valores nulos em 'Return1' e conversão de colunas para valores binários
 avengers_df['Return1'] = avengers_df['Return1'].fillna('NO')
